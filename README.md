@@ -3,6 +3,12 @@ This repository contains code from https://github.com/tum-vision/lsd_slam which 
 
 LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 
+#### Pre-requisites: xcode 8.0, opencv
+Please make sure xcode >= 8.0 is install in your computer.
+
+Please follow the link below to install opencv ios:
+http://docs.opencv.org/2.4/doc/tutorials/introduction/ios_install/ios_install.html
+
 # Title: 
 Direct Visual Odometry on Mobile Device. Please see the demo: https://www.youtube.com/watch?v=gOveXpLiBqw.
 
@@ -22,3 +28,4 @@ Guanhang Wu & Jennifer Lake
 We won the second best project in Advanced Computer Vision Apps class at CMU. 
 Please see our post: Mobile_LSD_Poster.pdf and paper: Mobile_LSD_Report.pdf 
 for implmentation and performance details.
+
