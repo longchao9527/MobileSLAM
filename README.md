@@ -16,7 +16,7 @@ Direct Visual Odometry on Mobile Device. Please see the demo: https://www.youtub
 
 # Function: 
 The code has been test with iPad 2 and iPhone5. 
-It could be running **realtime 30fps **in **iPad 2**  
+It could be running **realtime 30fps** in **iPad 2**  
 and **15fps** in **iPhone5**, which is developed in 2012.
 
 Please see the link below for detailed descriptions for each device:
