@@ -33,3 +33,7 @@ We won the second best project in Advanced Computer Vision Apps class at CMU.
 Please see our post: Mobile_LSD_Poster.pdf and paper: Mobile_LSD_Report.pdf 
 for implmentation and performance details.
 
+# UI output examples:
+![graph1](graph/example1.png)
+![graph2](graph/example2.png)
+
