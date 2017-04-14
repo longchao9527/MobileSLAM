@@ -12,7 +12,7 @@ http://docs.opencv.org/2.4/doc/tutorials/introduction/ios_install/ios_install.ht
 boost, sophus and Eigen are included in this repository.
 
 # Title: 
-Direct Visual Odometry on Mobile Device. Please see the demo: https://www.youtube.com/watch?v=gOveXpLiBqw.
+Direct Visual Odometry on Mobile Device. Please see the demo:https://youtu.be/yKapNg_xMNI.
 
 # Function: 
 The code has been test with iPad 2 and iPhone5. 
